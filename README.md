@@ -6,4 +6,4 @@ Neste projeto, vamos explorar o banco de dados SQLite que contém informações 
 
 Para acessar o banco de dados, vamos usar o Google Colab, uma plataforma online que permite executar código Python e SQL em um ambiente interativo. Para isso, precisamos instalar a extensão `sql` e conectar o banco de dados usando o comando mágico `%%sql`.
 
-![Colab logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Google_Colaboratory_logo.svg/1200px-Google_Colaboratory_logo.svg.png)
+![Colab logo](https://github.com/katrielaraujo/SQL-dataquest/assets/53996261/f6023495-69c1-4a65-8f5a-37b4e0ddde7e)
